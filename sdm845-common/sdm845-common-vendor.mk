@@ -64,7 +64,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sdm845-common/proprietary/lib/ese_spi_nxp.so:system/lib/ese_spi_nxp.so \
     vendor/oneplus/sdm845-common/proprietary/lib/libFileMux.so:system/lib/libFileMux.so \
     vendor/oneplus/sdm845-common/proprietary/lib/libOmxMux.so:system/lib/libOmxMux.so \
-    vendor/oneplus/sdm845-common/proprietary/lib/libdisplayconfig.so:system/lib/libdisplayconfig.so \
     vendor/oneplus/sdm845-common/proprietary/lib/libdpmctmgr.so:system/lib/libdpmctmgr.so \
     vendor/oneplus/sdm845-common/proprietary/lib/libdpmfdmgr.so:system/lib/libdpmfdmgr.so \
     vendor/oneplus/sdm845-common/proprietary/lib/libdpmframework.so:system/lib/libdpmframework.so \
@@ -74,7 +73,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sdm845-common/proprietary/lib/libmmrtpdecoder.so:system/lib/libmmrtpdecoder.so \
     vendor/oneplus/sdm845-common/proprietary/lib/libmmrtpencoder.so:system/lib/libmmrtpencoder.so \
     vendor/oneplus/sdm845-common/proprietary/lib/libnxpnfc-nci.so:system/lib/libnxpnfc-nci.so \
-    vendor/oneplus/sdm845-common/proprietary/lib/libqdMetaData.system.so:system/lib/libqdMetaData.system.so \
     vendor/oneplus/sdm845-common/proprietary/lib/libwfdaac.so:system/lib/libwfdaac.so \
     vendor/oneplus/sdm845-common/proprietary/lib/libwfdavenhancements.so:system/lib/libwfdavenhancements.so \
     vendor/oneplus/sdm845-common/proprietary/lib/libwfdclient.so:system/lib/libwfdclient.so \
