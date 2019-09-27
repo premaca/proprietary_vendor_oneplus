@@ -1221,6 +1221,7 @@ PRODUCT_PACKAGES += \
     imssettings \
     CNEService \
     WfdService \
+    dpmserviceapp \
     ims \
     qcrilmsgtunnel \
     PowerOffAlarm \
